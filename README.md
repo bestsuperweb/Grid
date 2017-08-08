@@ -1,5 +1,5 @@
-Grid
-====
+Grid by Best Super Web Developer
+================================
 
 HTML-based table with fixed headers, fixed footers, fixed left columns, row selection, sorting and more.
 
